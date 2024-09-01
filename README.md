@@ -188,15 +188,15 @@ the Database Management System. User Interface is designed using Hypertext Marku
 Language 5 (HTML5), Cascading Style Sheets 3 (CSS3) and JavaScript.  
 
 ## Software Requirements  
-Operating System: Windows 10 Professional  
+Operating System: Windows 10/Windows 11  
 64-bit operating system, x64-based processor  
 MySQL Database  
 
 ## Hardware Requirements  
 Minimum Hardware requirements  
 Processor 3.0GHZ processor speed  
-HDD 500GB and above  
-Memory 8GB PAM and above  
+SSD 120GB/HDD 500GB  
+Memory 4GB/8GB RAM  
 Visual display unit 800*600colors (1366*768 high colors)  
 
 ## Additional Information
