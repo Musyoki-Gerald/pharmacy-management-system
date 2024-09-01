@@ -13,7 +13,7 @@ enhance accuracy, safety and potency.
 • To improve the maintenance and manipulation of drugs and make information 
 accessible. The pharmacy management system will minimize time and resources by 
 maintaining the details of the drug system so that the data can be used as quickly as 
-possible. While the resources which are minimized are workforce, money, papers, etc. 
+possible. The resources that are minimized are the workforce, money, papers, etc. 
 The system is user-friendly and will help the pharmacist. This system will provide 
 more accurate details about drugs and the patient.   
 • The system permits the user to enter a producing and ending date for a selected product 
@@ -25,10 +25,10 @@ products sold and the sales invoices etc
 ## Installation and Setup
 
 1. Download and Install [XAMPP](https://www.apachefriends.org/download.html)
-2. Open XAMPP Control Panel and start Apache and MySQL.
+2. Open the XAMPP Control Panel and start Apache and MySQL.
 3. Clone the repository to your system or download and extract the zipped folder.
 4. Place the folder PHARMACY in *C:\xampp\htdocs*.
-5. In web browser, open *localhost/phpmyadmin*.
+5. In a web browser, open *localhost/phpmyadmin*.
 6. Create a new database called 'tenol' in phpmyadmin.
 7. Import the file 'tenol.sql' into the database.
 
