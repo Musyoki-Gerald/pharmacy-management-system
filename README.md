@@ -160,13 +160,12 @@ invoice number, the customer ID of the customer, the employee ID of the employee
 conducted the sales, the total amount of sales and the sale date and time.  
 
 **SALES_ITEMS:
-Contains details regarding the particular medicines sold during each sale. It 
-keeps track of the sale invoice number, the medicine ID, the quantity of that medicine purchased 
-and the total cost for that particular sale.  
+Contains details regarding the particular medicines sold during each sale. It keeps track of the sale invoice number, the medicine ID, and the quantity of that medicine purchased and the total cost for that particular sale.  
 
 **ADMIN: 
 Contains the employee ID, the username and the password for the Admin. Only a single 
-record exists. Admin capabilities can be implemented only by this login.  
+record exists. 
+Admin capabilities can be implemented only by this login.  
 
 **EMPLOGIN: 
 Contains the employee ID, the employee username and password for all the 
@@ -200,9 +199,10 @@ Memory 4GB/8GB RAM
 Visual display unit 800*600colors (1366*768 high colors)  
 
 ## Additional Information
--Check the triggers, procedures, and functions for further understanding.
--If a new employee has been added, their login details can only be added using the database server.
--Admin login details can only be changed using the database server.
+Check the triggers, procedures, and functions for further understanding.
+If a new employee has been added, their login details can only be added using the database server.
+Admin login details can only be changed using the database server.
+
 For major changes, please open an issue first to discuss what you would like to change.
 
 *Feel free to contact for any further queries via geraldmusyoki49@gmail.com*
