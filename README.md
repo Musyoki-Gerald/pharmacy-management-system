@@ -110,7 +110,7 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 
 #### Admin Login Page
 
-<img src="https://github.com/Tim-Dugan/pharmacy-management-system/blob/main/PHARMACY%20MANAGEMENT%20SYSTEM/Screenshots/Admin%20dashboard.jpg">
+<img src="https://github.com/Tim-Dugan/pharmacy-management-system/blob/main/PHARMACY%20MANAGEMENT%20SYSTEM/Screenshots/Admin%20login%20interface.jpg">
 
 #### Admin Dashboard
 
