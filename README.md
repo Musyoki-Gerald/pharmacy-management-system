@@ -175,7 +175,7 @@ using any of the login details in the table.
 
 ### ER Diagram
 
-<img src="https://github.com/">
+<img src="https://github.com/Tim-Dugan/pharmacy-management-system/blob/main/PHARMACY%20MANAGEMENT%20SYSTEM/ER_Diagram.png">
 
 ### Relational Database Model
 
