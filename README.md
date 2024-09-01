@@ -1,5 +1,5 @@
 # Pharmacy-Management-System
-Proposed Project Title (A PHARMACY MANAGEMENT SYSTEM(TENOL)
+Proposed Project Title - A PHARMACY MANAGEMENT SYSTEM (TENOL)
 
 # Proposed Solution  
 The project aims to assist a pharmacy in managing its inventory, details of customers, employees 
@@ -27,7 +27,7 @@ products sold and the sales invoices etc
 1. Download and Install [XAMPP](https://www.apachefriends.org/download.html)
 2. Open the XAMPP Control Panel and start Apache and MySQL.
 3. Clone the repository to your system or download and extract the zipped folder.
-4. Place the folder PHARMACY in *C:\xampp\htdocs*.
+4. Place the folder PHARMACY MANAGEMENT SYSTEM in *C:\xampp\htdocs*.
 5. In a web browser, open *localhost/phpmyadmin*.
 6. Create a new database called 'tenol' in phpmyadmin.
 7. Import the file 'tenol.sql' into the database.
