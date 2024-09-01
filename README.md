@@ -34,7 +34,7 @@ products sold and the sales invoices etc
 
 ## Launch
 
-1. After successfully importing, start the project by typing the following in the web browser:  *localhost/PHARMACY/mainpage.php*   
+1. After successfully importing, start the project by typing the following in the web browser:  *localhost/tenol/mainpage.php*   
 2. Admin login interface  
 This interface provides text fields that require some personal information about the administrator 
 to enable logging and gaining full access to the whole system. :
@@ -157,7 +157,7 @@ Contains details of all customers for ease during sales transactions.
 **SALES: 
 Contains details regarding all sales made by the pharmacy. It keeps track of the sale 
 invoice number, the customer ID of the customer, the employee ID of the employee who 
-conducted the sales, the total amount of sale and the sale date and time.  
+conducted the sales, the total amount of sales and the sale date and time.  
 
 **SALES_ITEMS:
 Contains details regarding the particular medicines sold during each sale. It 
