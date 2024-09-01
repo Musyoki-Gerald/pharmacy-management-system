@@ -179,7 +179,7 @@ using any of the login details in the table.
 
 ### Relational Database Model
 
-<img src="https://github.com/">
+<img src="https://github.com/Tim-Dugan/pharmacy-management-system/blob/main/PHARMACY%20MANAGEMENT%20SYSTEM/RelationalModel.png">
 
 
 ## Project Overview:  
