@@ -127,7 +127,7 @@ allowed from a pharmacist' point of view
 
 #### Pharmacist Login Page
 
-<img src="https://github.com/">
+<img src="https://github.com/Tim-Dugan/pharmacy-management-system/blob/main/PHARMACY%20MANAGEMENT%20SYSTEM/Screenshots/Pharmacist%20Login%20Screen.jpg">
 
 #### Pharmacist DashBoard
 
