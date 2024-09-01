@@ -114,7 +114,7 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 
 #### Admin Dashboard
 
-<img src="https://github.com/">
+<img src="https://github.com/Tim-Dugan/pharmacy-management-system/blob/main/PHARMACY%20MANAGEMENT%20SYSTEM/Screenshots/Admin%20dashboard.jpg">
 
 # Pharmacist Capabilities:  
 • View the inventory of medicines, their price, quantity and other details – no changes are 
