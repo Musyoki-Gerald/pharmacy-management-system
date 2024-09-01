@@ -29,8 +29,8 @@ products sold and the sales invoices etc
 3. Clone the repository to your system or download and extract the zipped folder.
 4. Place the folder PHARMACY in *C:\xampp\htdocs*.
 5. In web browser, open *localhost/phpmyadmin*.
-6. Create a new database called 'pharmacy' in phpmyadmin.
-7. Import the file 'pharmacy.sql' into the database.
+6. Create a new database called 'tenol' in phpmyadmin.
+7. Import the file 'tenol.sql' into the database.
 
 ## Launch
 
@@ -42,7 +42,7 @@ to enable logging and gaining full access to the whole system. :
     Username: gerald
 	Password: 1234567 
     ```
-3. For Pharmacist Login, refer to the 'emplogin' table in the database. 
+3. Refer to the 'emplogin' table in the database for Pharmacist Login. 
     Example:
     ```
     Username: daniel
@@ -55,13 +55,13 @@ of healthcare services including helping people to get the most benefit from the
 healthier lives. This makes the network of pharmacies a valuable asset for the provision of healthcare goals 
 to improve accuracy and enhance efficiency in pharmaceutical stores and shops. The theory behind this 
 project is based on the design and implementation of a pharmacy management system that provides 
-sophistication to perform any kind of task in a particular form, hence forming corresponding idealistic 
+sophistication to perform any task in a particular form, hence forming corresponding idealistic 
 pharmacy-related activities, improving accuracy, and enhancing efficiency in the pharmacy. 
 
 # INTRODUCTION     
 A pharmacy is a retail shop which provides pharmaceutical drugs, among other products. At the 
 pharmacy, the standard activities and operational model include the following; Drug designation and 
-classification which consist of the arrangement of drugs according to their uses to avoid confusion. 
+classification which consists of the arrangement of drugs according to their uses to avoid confusion. 
 Shelves, racks and pallets are set in the pharmacy for accommodating the goods to be stored at the 
 pharmacy which ensures air circulation and protects the drugs against humidity. A desk is required 
 for the person in charge of the pharmacy for administrative work and the keeping of documents. 
@@ -70,8 +70,7 @@ oversees the fulfilment of medical prescriptions and is available to counsel pat
 prescription and over-the-counter drugs or about general health issues. Pharmacists have an in-depth 
 knowledge of the chemistry of various drugs how they react in humans, and also how drugs interact 
 with each other. The pharmacy management system is a management system that is designed to 
-improve accuracy and enhance safety and efficiency in the pharmaceutical store. It is a computer
-based system which helps the Pharmacist to improve inventory management, cost, and medical 
+improve accuracy and enhance safety and efficiency in the pharmaceutical store. It is a computer-based system which helps the Pharmacist to improve inventory management, cost, and medical 
 safety. 
 The system allows users to enter a manufacturing and expiry date for a particular product or drug 
 during opening stock and sales transactions. It also involves manual entry upon arrival of new 
@@ -88,8 +87,8 @@ The main objectives/features of the system are:
 
 - Ease of use 
 - Deals with automation of tasks
-- Provides fast searching capabilities
-- Time and resources utilization is maximized via digitalisation
+- Provides fast search capabilities
+- Time and resource utilization is maximized via digitalisation
 - Generate alerts and reports as required on sales and medicines.
 
 ## Users of the System
@@ -113,7 +112,7 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 
 <img src="https://github.com/">
 
-#### Admin DashBoard
+#### Admin Dashboard
 
 <img src="https://github.com/">
 
